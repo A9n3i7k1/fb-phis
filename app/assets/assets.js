@@ -85,7 +85,7 @@ export const thumData = [
       url: 'https://youtu.be/FwbZ9qkL1Mg?si=6j7lF1jjFi4eGJ0P',
     },
        {
-      id: 5,
+      id: 6,
       title: 'BORBAAD',
       image: '/borbad.png',
       url: 'https://www.youtube.com/watch?v=4LiHg8nUlFw',
