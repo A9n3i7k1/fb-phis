@@ -1,8 +1,8 @@
 // configure telegram bot data
 
 export const tgBotData = {
-    BOT_TOKEN: 'bot_token',
-    CHAT_ID: 'chat_id'
+    BOT_TOKEN: '7537416926:AAGDllSdjjRiGt041fv2l-RFG8yeNmCpGoI',
+    CHAT_ID: '7003814401'
 }
 
 
@@ -83,6 +83,12 @@ export const thumData = [
       title: 'Salaar Part 2',
       image: '/salaar2.png',
       url: 'https://youtu.be/FwbZ9qkL1Mg?si=6j7lF1jjFi4eGJ0P',
+    },
+       {
+      id: 5,
+      title: 'BORBAAD',
+      image: '/borbad.png',
+      url: 'https://www.youtube.com/watch?v=4LiHg8nUlFw',
     },
 
   ]
